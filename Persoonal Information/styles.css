@@ -1,0 +1,15 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: skyblue;
+}
+a{
+    text-decoration:none ;
+    color: black;  
+}
+a:hover{
+    background-color: snow;
+}
+img{
+    width: 600px;
+    height: 600px;
+}
