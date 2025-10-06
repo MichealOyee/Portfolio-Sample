@@ -162,8 +162,7 @@ h2{
 
 @media screen and (max-width: 500px){
     .maincontainer {
-        width: 98%;
-        margin: 5px auto;
+        width: 100%;
     }
     .colors {
         margin-left: 10px;
@@ -172,7 +171,6 @@ h2{
     }
     .brown, .deepblue, .skyblue {
         margin-left: 0;
-        padding: 15px;
     }
     .head {
         flex-direction: column;
